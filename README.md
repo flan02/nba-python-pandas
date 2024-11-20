@@ -57,6 +57,8 @@ pip install -r requirements.txt
 
 ### CSV Files
 
+As example we'll use a local directory [nba-stats-csv] with CSV files. It won't be uploaded to the repository.
+
 Data pulled from [NBA stats](https://stats.nba.com/) and saved down into CSV files to be imported into dataframes. Filenames may be updated over time.
 
 ### Acknowledgments
