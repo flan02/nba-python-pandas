@@ -1,6 +1,9 @@
+![Badge](https://github.com/flan02/nba-python-pandas/blob/main/public/pandas_duo_miamiheat.png)
+
+
 # NBA Stats Projection Model
 
-KNN inspired NBA Stats Fantasy Projection Model in Python with Pandas
+Inspired NBA Stats Fantasy Projection Model in Python with Pandas
 
 ## Getting Started
 
